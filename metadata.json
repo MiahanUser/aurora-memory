@@ -1,0 +1,8 @@
+
+{
+  "name": "禹含 · 极光记忆深处",
+  "description": "为禹含定制的交互式浪漫艺术空间，通过星轨临摹与记忆编织，重构永恒瞬间。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
